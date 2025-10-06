@@ -35,3 +35,9 @@ if intentos<2:
     solucion=math.sqrt(numero)
     print("La raiz cuadrada de " + str(numero) + " es " + str(solucion))
 
+
+
+
+
+
+
